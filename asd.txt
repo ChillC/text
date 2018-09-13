@@ -1,0 +1,10 @@
+<html>
+<head>
+<h1>我的第一1个标题</h1>
+<p>我的第一个段落</p>
+<p>我命由我不由天</p>
+<img src="a.jpg" width="500" height="500" />
+<br>
+<a href="http://www.baidu.com">百度链接</a>
+</head>
+</html>
