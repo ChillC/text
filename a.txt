@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>欢迎光临我的网上商城</title>
+</head>
+<body bgcolor="lightgrey">
+   <font color="blue" size="5" face="楷体">欢迎光临我的网上商城</font>
+   <hr color="red" align="left" size="3" width="95%">
+   <p>请观看我的体育用品</p>
+   <img border="0" src=" ../image/a.jpg"  width="500"  height="500">
+</body>
+</html>
